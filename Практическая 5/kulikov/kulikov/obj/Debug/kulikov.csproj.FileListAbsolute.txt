@@ -1,0 +1,11 @@
+C:\Users\user\Documents\430\kulikov\kulikov\bin\Debug\dbSchoolKulikov1.accdb
+C:\Users\user\Documents\430\kulikov\kulikov\bin\Debug\kulikov.exe.config
+C:\Users\user\Documents\430\kulikov\kulikov\bin\Debug\kulikov.exe
+C:\Users\user\Documents\430\kulikov\kulikov\bin\Debug\kulikov.pdb
+C:\Users\user\Documents\430\kulikov\kulikov\obj\Debug\kulikov.csproj.AssemblyReference.cache
+C:\Users\user\Documents\430\kulikov\kulikov\obj\Debug\kulikov.Form1.resources
+C:\Users\user\Documents\430\kulikov\kulikov\obj\Debug\kulikov.Properties.Resources.resources
+C:\Users\user\Documents\430\kulikov\kulikov\obj\Debug\kulikov.csproj.GenerateResource.cache
+C:\Users\user\Documents\430\kulikov\kulikov\obj\Debug\kulikov.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\430\kulikov\kulikov\obj\Debug\kulikov.exe
+C:\Users\user\Documents\430\kulikov\kulikov\obj\Debug\kulikov.pdb
