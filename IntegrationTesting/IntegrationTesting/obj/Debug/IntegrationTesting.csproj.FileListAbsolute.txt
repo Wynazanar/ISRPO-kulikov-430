@@ -1,0 +1,6 @@
+C:\Users\donli\source\repos\IntegrationTesting\IntegrationTesting\bin\Debug\IntegrationTesting.dll
+C:\Users\donli\source\repos\IntegrationTesting\IntegrationTesting\bin\Debug\IntegrationTesting.pdb
+C:\Users\donli\source\repos\IntegrationTesting\IntegrationTesting\obj\Debug\IntegrationTesting.csproj.AssemblyReference.cache
+C:\Users\donli\source\repos\IntegrationTesting\IntegrationTesting\obj\Debug\IntegrationTesting.csproj.CoreCompileInputs.cache
+C:\Users\donli\source\repos\IntegrationTesting\IntegrationTesting\obj\Debug\IntegrationTesting.dll
+C:\Users\donli\source\repos\IntegrationTesting\IntegrationTesting\obj\Debug\IntegrationTesting.pdb
