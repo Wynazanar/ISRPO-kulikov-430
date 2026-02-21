@@ -7,36 +7,105 @@ namespace CalculatorTests
     [TestClass]
     public class CalculatorTests
     {
-        [DataTestMethod]
-        [DataRow(10, 2)]
-        [DataRow(0, 0)]
-        [DataRow(-5, 3)]
-        public void Test_ComputeC_WithDifferentValues(float a, float b)
+        [TestMethod]
+        public void Test_CalculateVar1_NormalValues()
         {
+            float a = 10;
+            float b = 2;
+            float c = 6;
+
             Calculator calculator = new Calculator(a, b);
+
             Assert.AreEqual(a, calculator.GetA());
             Assert.AreEqual(b, calculator.GetB());
-
-            var expectedResult = a - Math.Pow(b, 2);
-            var actualResult = calculator.Calculate();
-            Assert.AreEqual(expectedResult, actualResult);
+            Assert.AreEqual(c, calculator.CalculateVar1());
         }
 
-        [DataTestMethod]
-        [DataRow(5, 9)]
-        [DataRow(0, 7)]
-        [DataRow(2, -4)]
-        public void Test_ComputeC_WithErrorValues(float a, float b)
+        [TestMethod]
+        public void Test_CalculateVar1_ZeroValues()
         {
+            float a = 0;
+            float b = 0;
+            float c = 0;
+
             Calculator calculator = new Calculator(a, b);
+
             Assert.AreEqual(a, calculator.GetA());
             Assert.AreEqual(b, calculator.GetB());
+            Assert.AreEqual(c, calculator.CalculateVar1());
+        }
 
-            calculator.SetB(b + 2);
+        [TestMethod]
+        public void Test_CalculateVar1_NegativeValues()
+        {
+            float a = -5;
+            float b = 3;
+            float c = -14;
 
-            var expectedResult = a - Math.Pow(b, 2);
-            var actualResult = calculator.Calculate();
-            Assert.AreEqual(expectedResult, actualResult);
+            Calculator calculator = new Calculator(a, b);
+
+            Assert.AreEqual(a, calculator.GetA());
+            Assert.AreEqual(b, calculator.GetB());
+            Assert.AreEqual(c, calculator.CalculateVar1());
+        }
+
+        [TestMethod]
+        public void Test_CalculateVar1_NormalValues_SetNewA()
+        {
+            float a = 10;
+            float b = 13;
+            float c = -155;
+
+            Calculator calculator = new Calculator(a, b);
+
+            calculator.SetA(14);
+
+            Assert.AreEqual(b, calculator.GetB());
+            Assert.AreEqual(c, calculator.CalculateVar1());
+        }
+
+
+
+        [TestMethod]
+        public void Test_CalculateVar8_NormalValues()
+        {
+            float a = 8;
+            float b = 3;
+            float c = 40;
+
+            Calculator calculator = new Calculator(a, b);
+
+            Assert.AreEqual(a, calculator.GetA());
+            Assert.AreEqual(b, calculator.GetB());
+            Assert.AreEqual(c, calculator.CalculateVar8());
+        }
+
+        [TestMethod]
+        public void Test_CalculateVar8_ZeroValues()
+        {
+            float a = 0;
+            float b = 0;
+            float c = 0;
+
+            Calculator calculator = new Calculator(a, b);
+
+            Assert.AreEqual(a, calculator.GetA());
+            Assert.AreEqual(b, calculator.GetB());
+            Assert.AreEqual(c, calculator.CalculateVar8());
+        }
+
+        [TestMethod]
+        public void Test_CalculateVar8_NegaiveValues()
+        {
+            float a = -3;
+            float b = 3;
+            float c = -15;
+
+            Calculator calculator = new Calculator(a, b);
+
+            Assert.AreEqual(a, calculator.GetA());
+            Assert.AreEqual(b, calculator.GetB());
+            Assert.AreEqual(c, calculator.CalculateVar8());
         }
     }
 }

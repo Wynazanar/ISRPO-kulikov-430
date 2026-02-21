@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="CalculatorTests/CalculatorTests.csproj" />
-  <Project Path="IntegrationTesting/IntegrationTesting.csproj" />
+  <Project Path="CalculatorTests/CalculatorTests.csproj" Id="098d0f28-45a5-4a76-a915-99b92804fa71" />
+  <Project Path="IntegrationTesting/IntegrationTesting.csproj" Id="32273b10-c7c6-4963-a7ae-229be77b9f7c" />
 </Solution>

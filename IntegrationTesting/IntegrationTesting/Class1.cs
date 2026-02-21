@@ -16,9 +16,14 @@ namespace IntegrationTesting
             this.b = initB;
         }
 
-        public double Calculate()
+        public double CalculateVar1()
         {
             return a - Math.Pow(b, 2);
+        }
+
+        public double CalculateVar8()
+        {
+            return (a * (Math.Pow(b, 2) + 16)) / 5;
         }
 
         public void SetA(float value)
