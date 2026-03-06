@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\donli\\source\\repos\\pr_14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF1C2D9-E21B-47A7-95E3-7CF4FA6EB868}|Testing\\Testing.csproj|c:\\users\\donli\\source\\repos\\pr_14\\testing\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF1C2D9-E21B-47A7-95E3-7CF4FA6EB868}|Testing\\Testing.csproj|solutionrelative:testing\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4EFD4B6-AF35-43AC-8F5F-AB00CAB2BC55}|pr_14\\pr_14.csproj|C:\\Users\\donli\\source\\repos\\pr_14\\pr_14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4EFD4B6-AF35-43AC-8F5F-AB00CAB2BC55}|pr_14\\pr_14.csproj|solutionrelative:pr_14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4EFD4B6-AF35-43AC-8F5F-AB00CAB2BC55}|pr_14\\pr_14.csproj|C:\\Users\\donli\\source\\repos\\pr_14\\pr_14\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4EFD4B6-AF35-43AC-8F5F-AB00CAB2BC55}|pr_14\\pr_14.csproj|solutionrelative:pr_14\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4EFD4B6-AF35-43AC-8F5F-AB00CAB2BC55}|pr_14\\pr_14.csproj|c:\\users\\donli\\source\\repos\\pr_14\\pr_14\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4EFD4B6-AF35-43AC-8F5F-AB00CAB2BC55}|pr_14\\pr_14.csproj|solutionrelative:pr_14\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4EFD4B6-AF35-43AC-8F5F-AB00CAB2BC55}|pr_14\\pr_14.csproj|C:\\Users\\donli\\source\\repos\\pr_14\\pr_14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4EFD4B6-AF35-43AC-8F5F-AB00CAB2BC55}|pr_14\\pr_14.csproj|solutionrelative:pr_14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 368,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\donli\\source\\repos\\pr_14\\Testing\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Testing\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\donli\\source\\repos\\pr_14\\Testing\\UnitTest1.cs",
+              "RelativeToolTip": "Testing\\UnitTest1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T00:31:30.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\donli\\source\\repos\\pr_14\\pr_14\\Form2.cs",
+              "RelativeDocumentMoniker": "pr_14\\Form2.cs",
+              "ToolTip": "C:\\Users\\donli\\source\\repos\\pr_14\\pr_14\\Form2.cs",
+              "RelativeToolTip": "pr_14\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:25:14.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\donli\\source\\repos\\pr_14\\pr_14\\Form2.cs",
+              "RelativeDocumentMoniker": "pr_14\\Form2.cs",
+              "ToolTip": "C:\\Users\\donli\\source\\repos\\pr_14\\pr_14\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "pr_14\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:24:34.521Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\donli\\source\\repos\\pr_14\\pr_14\\Form1.cs",
+              "RelativeDocumentMoniker": "pr_14\\Form1.cs",
+              "ToolTip": "C:\\Users\\donli\\source\\repos\\pr_14\\pr_14\\Form1.cs",
+              "RelativeToolTip": "pr_14\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:23:16.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\donli\\source\\repos\\pr_14\\pr_14\\Form1.cs",
+              "RelativeDocumentMoniker": "pr_14\\Form1.cs",
+              "ToolTip": "C:\\Users\\donli\\source\\repos\\pr_14\\pr_14\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "pr_14\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:19:14.021Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

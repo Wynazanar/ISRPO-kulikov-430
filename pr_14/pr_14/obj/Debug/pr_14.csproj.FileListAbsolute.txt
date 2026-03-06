@@ -1,0 +1,11 @@
+C:\Users\donli\source\repos\pr_14\pr_14\bin\Debug\pr_14.exe.config
+C:\Users\donli\source\repos\pr_14\pr_14\bin\Debug\pr_14.exe
+C:\Users\donli\source\repos\pr_14\pr_14\bin\Debug\pr_14.pdb
+C:\Users\donli\source\repos\pr_14\pr_14\obj\Debug\pr_14.csproj.AssemblyReference.cache
+C:\Users\donli\source\repos\pr_14\pr_14\obj\Debug\pr_14.Form1.resources
+C:\Users\donli\source\repos\pr_14\pr_14\obj\Debug\pr_14.Form2.resources
+C:\Users\donli\source\repos\pr_14\pr_14\obj\Debug\pr_14.Properties.Resources.resources
+C:\Users\donli\source\repos\pr_14\pr_14\obj\Debug\pr_14.csproj.GenerateResource.cache
+C:\Users\donli\source\repos\pr_14\pr_14\obj\Debug\pr_14.csproj.CoreCompileInputs.cache
+C:\Users\donli\source\repos\pr_14\pr_14\obj\Debug\pr_14.exe
+C:\Users\donli\source\repos\pr_14\pr_14\obj\Debug\pr_14.pdb
